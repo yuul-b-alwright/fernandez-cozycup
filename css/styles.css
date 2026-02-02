@@ -159,6 +159,7 @@ nav a:hover {
 .contact {
     padding: 100px 0;
     text-align: center;
+    justify-content: center;
     background-color: #102C57;
     color: white;
 }
@@ -172,7 +173,8 @@ nav a:hover {
 .contact p {
     font-family: 'Sketchnote', Arial, Helvetica, sans-serif;
     font-size: 18px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 footer {
